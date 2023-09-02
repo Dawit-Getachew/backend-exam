@@ -1,4 +1,4 @@
-### Advanced Backend Developer Test
+### Backend Developer Test
 
 **Objective:**
 Build a complex RESTful API using Javascript, Express.js, JWT authentication, PostgreSQL, and Prisma ORM for a sophisticated task management application. the time given to complete this exam is maximum of 7 days.
